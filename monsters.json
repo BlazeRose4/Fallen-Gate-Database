@@ -20,6 +20,16 @@
         "loot": ["Platinum Ingot (2)", "Anima Orb (1)", "Organic Oil (3)", "Astral Diamond (2)"]
     },
     {
+        "name": "Grimm Death Stalker",
+        "body": 10,
+        "mind": 10,
+        "spirit": 10,
+        "ac": 8,
+        "bonus": 0,
+        "lootRolls": 1,
+        "loot": ["Platinum Ingot (2)", "Anima Orb (1)", "Organic Oil (3)", "Astral Diamond (2)"]
+    },
+    {
         "name": "Void Dragon",
         "body": 20,
         "mind": 20,
