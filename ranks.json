@@ -1,0 +1,18 @@
+[
+    {
+        "rank": "Mortal",
+        "body": 2,
+        "mind": 2,
+        "spirit": 2,
+        "bonus": 0,
+        "description": "Humble humans with no special abilities."
+    },
+    {
+        "rank": "Initiate",
+        "body": 2,
+        "mind": 2,
+        "spirit": 2,
+        "bonus": 0,
+        "description": "New members who are just starting their journey."
+    }
+]

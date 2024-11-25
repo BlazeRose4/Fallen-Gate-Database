@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Gazer",
+        "body": 4,
+        "mind": 4,
+        "spirit": 4,
+        "ac": 0,
+        "bonus": 0,
+        "lootRolls": 1,
+        "loot": ["Gold Ingot (1)", "Anima Orb (1)", "Gazer Wing (2)"]
+    },
+    {
+        "name": "Mother Eye",
+        "body": 14,
+        "mind": 14,
+        "spirit": 14,
+        "ac": 8,
+        "bonus": 3,
+        "lootRolls": 2,
+        "loot": ["Platinum Ingot (2)", "Anima Orb (1)", "Organic Oil (3)", "Astral Diamond (2)"]
+    },
+    {
+        "name": "Void Dragon",
+        "body": 20,
+        "mind": 20,
+        "spirit": 15,
+        "ac": 10,
+        "bonus": 5,
+        "lootRolls": 3,
+        "loot": ["Void Dragon Scale (3)", "Valorite Ingot (3)", "Rhodium Ingot (3)", "Anima Orb (4)", "Soul Sapphire (3)"]
+    }
+]
