@@ -1,0 +1,48 @@
+{
+  "players": [
+    {
+      "name": "Allice",
+      "body": 10,
+      "mind": 8,
+      "spirit": 7,
+      "ac": 15,
+      "bonus": 3,
+      "loot": true
+    },
+    {
+      "name": "Vivian",
+      "body": 9,
+      "mind": 12,
+      "spirit": 6,
+      "ac": 14,
+      "bonus": 2,
+      "loot": false
+    }
+  ],
+  "monsters": [
+    {
+      "name": "Goblin",
+      "body": 4,
+      "mind": 2,
+      "spirit": 1,
+      "ac": 12,
+      "lootTable": [
+        "1 Gold Coin",
+        "2 Goblin Teeth",
+        "1 Rusty Sword"
+      ]
+    },
+    {
+      "name": "Troll",
+      "body": 18,
+      "mind": 4,
+      "spirit": 3,
+      "ac": 16,
+      "lootTable": [
+        "5 Gold Coins",
+        "1 Troll Skin",
+        "3 Giant Stones"
+      ]
+    }
+  ]
+}
