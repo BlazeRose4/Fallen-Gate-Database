@@ -1,0 +1,15 @@
+{
+  "type": "Dark Magic - Necromancy",
+  "spells": [
+    {
+      "name": "Raise Dead",
+      "level": 1,
+      "description": "Animate a skeleton to fight for you."
+    },
+    {
+      "name": "Soul Drain",
+      "level": 2,
+      "description": "Steal life energy from your foes."
+    }
+  ]
+}

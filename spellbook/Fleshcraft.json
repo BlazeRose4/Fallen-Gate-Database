@@ -1,0 +1,15 @@
+{
+  "type": "Dark Magic - Fleshcraft",
+  "spells": [
+    {
+      "name": "Bone Blade",
+      "level": 1,
+      "description": "Form a weapon from your own bones."
+    },
+    {
+      "name": "Reconstruct Flesh",
+      "level": 2,
+      "description": "Heal by manipulating tissue."
+    }
+  ]
+}

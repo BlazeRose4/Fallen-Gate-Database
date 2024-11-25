@@ -1,0 +1,15 @@
+{
+  "type": "Dark Magic - Shadow",
+  "spells": [
+    {
+      "name": "Veil of Darkness",
+      "level": 1,
+      "description": "Shroud an area in impenetrable shadows."
+    },
+    {
+      "name": "Shadow Blade",
+      "level": 2,
+      "description": "Forge a weapon from pure darkness."
+    }
+  ]
+}

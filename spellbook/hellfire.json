@@ -1,0 +1,15 @@
+{
+  "type": "Dark Magic - Hellfire",
+  "spells": [
+    {
+      "name": "Infernal Flame",
+      "level": 1,
+      "description": "Summon hellfire to scorch your enemies."
+    },
+    {
+      "name": "Blazing Retribution",
+      "level": 2,
+      "description": "Unleash a fiery explosion upon taking damage."
+    }
+  ]
+}

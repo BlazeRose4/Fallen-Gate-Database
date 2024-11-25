@@ -1,0 +1,15 @@
+{
+  "type": "Dark Magic - Curse",
+  "spells": [
+    {
+      "name": "Hex of Weakness",
+      "level": 1,
+      "description": "Curse a foe, reducing their strength."
+    },
+    {
+      "name": "Malign Aura",
+      "level": 2,
+      "description": "Create an aura that saps the vitality of enemies."
+    }
+  ]
+}
