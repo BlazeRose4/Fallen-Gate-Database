@@ -1,0 +1,44 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "name": "Allice",
+            "body": 10,
+            "mind": 12,
+            "spirit": 14,
+            "ac": 15,
+            "bonus": 3,
+            "lootEligible": true
+        },
+        {
+            "id": 2,
+            "name": "Vivian",
+            "body": 14,
+            "mind": 10,
+            "spirit": 12,
+            "ac": 16,
+            "bonus": 2,
+            "lootEligible": false
+        },
+        {
+            "id": 3,
+            "name": "Grayson",
+            "body": 18,
+            "mind": 9,
+            "spirit": 10,
+            "ac": 17,
+            "bonus": 4,
+            "lootEligible": true
+        },
+        {
+            "id": 4,
+            "name": "Lara",
+            "body": 8,
+            "mind": 15,
+            "spirit": 18,
+            "ac": 14,
+            "bonus": 1,
+            "lootEligible": true
+        }
+    ]
+}
