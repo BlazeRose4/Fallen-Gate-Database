@@ -1,0 +1,52 @@
+{
+    "monsters": [
+        {
+            "name": "Goblin",
+            "body": 8,
+            "mind": 5,
+            "spirit": 4,
+            "ac": 12,
+            "bonus": 2,
+            "loot": {
+                "1-2": "Nothing",
+                "3-4": ["Broken Dagger", "Tattered Cloak"],
+                "5-6": ["Iron Sword", "Healing Herb"],
+                "7-8": ["Enchanted Ring", "Rare Gem"],
+                "9-10": ["Dragon Scale", "Spell Tome"],
+                "11-12": ["Phoenix Feather", "Ancient Relic"]
+            }
+        },
+        {
+            "name": "Orc",
+            "body": 14,
+            "mind": 7,
+            "spirit": 6,
+            "ac": 15,
+            "bonus": 3,
+            "loot": {
+                "1-2": "Nothing",
+                "3-4": ["Rusty Axe", "Leather Armor"],
+                "5-6": ["Steel Axe", "Mana Potion"],
+                "7-8": ["Orc Talisman", "Rare Ore"],
+                "9-10": ["Magic Amulet", "Bloodstone"],
+                "11-12": ["Warrior's Helm", "Sacred Artifact"]
+            }
+        },
+        {
+            "name": "Dragon",
+            "body": 20,
+            "mind": 18,
+            "spirit": 15,
+            "ac": 19,
+            "bonus": 5,
+            "loot": {
+                "1-2": "Nothing",
+                "3-4": ["Scorched Scale", "Dragon Fang"],
+                "5-6": ["Gold Coin Pouch", "Mystic Herb"],
+                "7-8": ["Crystal Claw", "Dragon Bone"],
+                "9-10": ["Flame Orb", "Ancient Scroll"],
+                "11-12": ["Heart of the Dragon", "Legendary Sword"]
+            }
+        }
+    ]
+}
