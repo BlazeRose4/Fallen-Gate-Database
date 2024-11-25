@@ -1,6 +1,15 @@
 {
   "players": [
     {
+      "name": "----Players----",
+      "body": 10,
+      "mind": 8,
+      "spirit": 7,
+      "ac": 15,
+      "bonus": 3,
+      "loot": true
+    },
+    {
       "name": "Allice",
       "body": 10,
       "mind": 8,
@@ -16,16 +25,30 @@
       "spirit": 6,
       "ac": 14,
       "bonus": 2,
-      "loot": false
+      "loot": true
     }
-  ],
-  "monsters": [
+    {
+      "name": "----monsters----",
+      "body": 4,
+      "mind": 2,
+      "spirit": 1,
+      "ac": 12,
+      "bonus": 2,
+      "loot": false
+      "lootTable": [
+        "1 Gold Coin",
+        "2 Goblin Teeth",
+        "1 Rusty Sword"
+      ]
+    },
     {
       "name": "Goblin",
       "body": 4,
       "mind": 2,
       "spirit": 1,
       "ac": 12,
+      "bonus": 2,
+      "loot": false
       "lootTable": [
         "1 Gold Coin",
         "2 Goblin Teeth",
@@ -38,6 +61,8 @@
       "mind": 4,
       "spirit": 3,
       "ac": 16,
+      "bonus": 2,
+      "loot": false
       "lootTable": [
         "5 Gold Coins",
         "1 Troll Skin",
