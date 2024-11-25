@@ -1,0 +1,15 @@
+{
+  "type": "Dark Magic - Blood",
+  "spells": [
+    {
+      "name": "Sanguine Strike",
+      "level": 1,
+      "description": "Inflict damage by drawing upon your own blood."
+    },
+    {
+      "name": "Blood Pact",
+      "level": 2,
+      "description": "Form a pact that exchanges health for power."
+    }
+  ]
+}
